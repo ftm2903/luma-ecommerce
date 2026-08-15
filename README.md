@@ -3,10 +3,6 @@
 LUMA is a responsive e-commerce front-end project built with React.  
 Users can browse products, search and filter them, view product details, manage a shopping cart, and simulate a checkout process.
 
-## Live Demo
-
-> The live demo link will be added after deployment.
-
 ## Screenshots
 
 ![Home Page](./public/screenshots/home.png)
